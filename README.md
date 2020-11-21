@@ -7,7 +7,7 @@ That may be because I have used [FaceDetector API](https://developer.android.com
 Currently this only works on Chrome and you have to enable `Experimental Web platform feature` in `chrome://flags` 
 
 
-<p align="center"><img src="./err.png" width="800"></p>
+<p align="center"><img src="https://techniorg.com/wp-content/uploads/2018/05/Experimental-Web-Platform-Features.jpg" width="800"></p>
 
 --- 
 
